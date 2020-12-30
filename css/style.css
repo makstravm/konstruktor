@@ -463,22 +463,20 @@ body {
   .footer__social {
     margin-left: 40px;
   }
-  @media (max-width: 860px) {
-    .story__text {
-      margin-right: 20px;
-    }
-    .capabilities__text {
-      margin-left: 80px;
-    }
-    .project__inner {
-      margin-bottom: 80px;
-    }
-    .build__title {
-      padding-top: 80px;
-    }
-    .build__btn {
-      margin-bottom: 170px;
-    }
+  .story__text {
+    margin-right: 20px;
+  }
+  .capabilities__text {
+    margin-left: 80px;
+  }
+  .project__inner {
+    margin-bottom: 80px;
+  }
+  .build__title {
+    padding-top: 80px;
+  }
+  .build__btn {
+    margin-bottom: 170px;
   }
 }
 
