@@ -623,6 +623,7 @@ body {
     transform: translateX(-15%);
   }
   .menu__link {
+    font-size: 14px;
     padding: 0 10px 5px 10px;
   }
   .about__inner {
