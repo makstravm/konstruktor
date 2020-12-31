@@ -628,6 +628,9 @@ body {
     flex-wrap: wrap;
     justify-content: center;
   }
+  .about__item {
+    height: 180px;
+  }
   .about__inner .about__item {
     margin: 0 5px 10px 5px;
   }
@@ -652,7 +655,7 @@ body {
   }
 }
 
-@media (max-width:360px) {
+@media (max-width:340px) {
   .project__inner {
     margin-bottom: 30px;
   }
@@ -663,7 +666,7 @@ body {
     margin-right: 0px;
   }
   .footer__social {
-    margin-left: 10px;
+    margin-left: 15px;
   }
   .footer__bot span {
     display: block;
